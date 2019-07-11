@@ -1,0 +1,11 @@
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\obj\Debug\netcoreapp2.1\GCBonusLab2.csprojAssemblyReference.cache
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\obj\Debug\netcoreapp2.1\GCBonusLab2.csproj.CoreCompileInputs.cache
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\obj\Debug\netcoreapp2.1\GCBonusLab2.AssemblyInfoInputs.cache
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\obj\Debug\netcoreapp2.1\GCBonusLab2.AssemblyInfo.cs
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\bin\Debug\netcoreapp2.1\GCBonusLab2.deps.json
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\bin\Debug\netcoreapp2.1\GCBonusLab2.runtimeconfig.json
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\bin\Debug\netcoreapp2.1\GCBonusLab2.runtimeconfig.dev.json
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\bin\Debug\netcoreapp2.1\GCBonusLab2.dll
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\bin\Debug\netcoreapp2.1\GCBonusLab2.pdb
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\obj\Debug\netcoreapp2.1\GCBonusLab2.dll
+C:\Users\Eliza\source\repos\GCBonusLabs\GCBonusLab2\obj\Debug\netcoreapp2.1\GCBonusLab2.pdb
